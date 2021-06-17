@@ -1,4 +1,4 @@
-# GitHub and Travis Training Project
+# GitHub and Travis Training Project HELLO
 
 This project is a small, simple vehicle to explore Git with GitHub and Travis for the Engineering Academy induction.
 
